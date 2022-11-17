@@ -1,0 +1,10 @@
+*
+!*.*
+!*/
+
+*.log
+
+build/
+
+# Auto-generated runner script
+run_script.sh
